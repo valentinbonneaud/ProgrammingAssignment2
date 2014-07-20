@@ -1,6 +1,6 @@
 ## Valentin BONNEAUD
-## Pair of functions that compute and cache the inverse of a matrix for accelerate
-## computations in loops (for example)
+## Pair of functions that compute and cache the inverse of an assumed invertible
+## matrix for accelerate computations in loops (for example)
 
 ## This function creates a special "matrix" object that can cache its inverse. 
 ##
